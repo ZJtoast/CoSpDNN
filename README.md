@@ -27,13 +27,13 @@ make cospdnn_double
 ## Reproducing Paper Results
 To reproduce the experimental results presented in our paper, run the following script:
 
-for Table I
+For Table I
 ```bash
 cd scripts/
 bash run_single.sh
 ```
 
-for Table II & III
+For Table II & III
 ```bash
 cd scripts/
 bash run_concurrency.sh
