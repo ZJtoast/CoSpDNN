@@ -2,7 +2,7 @@
 source code for Sparse Deep Neural Network Graph Challenge (more detail:http://graphchallenge.mit.edu/challenges).
 
 
-## Preworks
+## Preliminaries
 
 Clone the project and download the dataset(https://graphchallenge.s3.amazonaws.com/synthetic/sparsechallenge_2019).
 
